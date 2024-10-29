@@ -19,7 +19,7 @@ O programa permite a geração de etiquetas em três tamanhos diferentes:
 
 ## Problema Resolvido 🚀
 
-Anteriormente, o processo de criação de etiquetas exigia conhecimento em CorelDraw e levava de 3 a 5 minutos. Com a implementação deste programa, o tempo para criar as etiquetas foi reduzido para menos de 1 minuto, permitindo que qualquer colaborador possa utilizar a ferramenta sem dificuldades.
+Anteriormente, o processo de criação de etiquetas exigia conhecimento em CorelDraw e levava de 10 a 15 minutos. Com a implementação deste programa, o tempo para criar as etiquetas foi reduzido para menos de 1 minuto, permitindo que qualquer colaborador possa utilizar a ferramenta sem dificuldades.
 
 ## Saiba mais 🔗
 
