@@ -23,4 +23,4 @@ Anteriormente, o processo de criação de etiquetas exigia conhecimento em Corel
 
 ## Saiba mais 🔗
 
-Para mais detalhes sobre este projeto, visite meu portfólio: [Saiba mais](https://raphaelaugusto.vercel.app/00-automacao_etiquetas.html)
+Para mais detalhes sobre este projeto, visite meu portfólio: [Saiba mais](https://raphaelaugusto.vercel.app/pages/00-automacao_etiquetas.html)
